@@ -1,0 +1,28 @@
+.sidebar-dropdown{
+    background-color: #343a40;
+    border: 1px solid #343a40;
+    border-width: 10px;
+}
+
+.sidebar-dropdown a{
+    color: white;
+    border-bottom:1px solid #343a40;
+    text-decoration: none;
+    padding: 0 5px;
+    
+   
+}
+.sidebar-dropdown a:active{
+    background-color: #007bff;
+    color:8px 16px
+}
+
+li{
+    text-align: center;
+    
+}
+.sidebar-dropdown a:hover{
+    color: #007bff;
+    text-decoration: none;
+}
+
